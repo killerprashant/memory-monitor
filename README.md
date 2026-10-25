@@ -17,13 +17,16 @@ Extract the ZIP, then open **Memory Monitor.exe**. Keep all extracted files toge
 ## Storage
 
 - **Ctrl+2:** Storage tab. Choose All drives, one drive, or a folder, then Scan.
-- **Enter:** open the selected drive or folder, or read file details.
+- **Enter:** open the focused drive or folder and show its contents, or read file details.
 - **Alt+Left:** go back.
+- **Ctrl+click, Ctrl+Space, or Shift+Arrow:** select multiple items.
+- **Ctrl+A in an opened folder:** select all matching items, including other result pages.
+- **Shift+Delete:** review and permanently delete selected files and folders. Cancel is selected initially. Deleted items bypass the Recycle Bin. The list and sizes refresh afterward.
 - **Largest files:** list files across scanned locations from largest to smallest.
 - **Ctrl+F:** search. **Ctrl+PageDown / Ctrl+PageUp:** change result pages.
 - **Cancel scan:** stop and keep partial results.
 
-Use **Ctrl+Tab** to switch tabs, **Ctrl+L** to focus the current list, **F1** for keyboard help, and **Alt+F4** to close.
+Use **Left/Right** on the tabs to switch while keeping focus on the tab name. **Tab** enters its controls. **Ctrl+Tab** also switches tabs, **Ctrl+L** focuses the current list, **F1** opens keyboard help, and **Alt+F4** closes the app.
 
 ## Updates
 
